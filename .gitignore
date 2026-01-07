@@ -1,0 +1,9 @@
+# Ignorar los datos del mainframe (debes descargar los archivos tu)
+mainframe/mvs_data/
+
+# Ignorar archivos temporales de Mac
+.DS_Store
+
+# Ignorar carpetas de logs o temporales
+*.log
+*.prt
