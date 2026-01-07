@@ -1,15 +1,15 @@
 # Entorno de Desarrollo Mainframe + Java(Todavía no está lista esta parte) + Frontend
 
 Este proyecto levanta un entorno completo de Mainframe (MVS 3.8j) usando Docker.
-
 ## Requisitos
 1. Docker Desktop instalado.
 2. Un emulador TN3270 (x3270, TN3270 X, Brownie).
+(Tengo un short en mi canal para instalar x3270 en mac m1+)
 
 ## Instalación (Paso a paso)
 
 1. **Clonar este repositorio:**
-   git clone <tu-link-del-repo>
+   git clone <https://github.com/Javilonte/mainframejf>
    cd mi-proyecto
 
 2. **Descargar el Sistema Operativo (TK4-):**
